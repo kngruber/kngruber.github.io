@@ -6,5 +6,5 @@
 ## My Interests
     I'm an audiophile who loves sports and videogames. I could talk about anything involving audio, basketball, baseball, or 2k all day everyday.
 ## Websites I Recommend
-    - [Youtube](https://www.youtube.com)
+    - [YouTube](https://www.youtube.com)
     - [Gmail](https://mail.google.com/)
