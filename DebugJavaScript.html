@@ -47,7 +47,7 @@
             }
 
             //const monthlyPayment = (principal * rate * monthlyRate) / (monthlyRate - 1);
-            const monthlyPayment = principal * (monthlyRate * n) / (n - 1);
+            const monthlyPayment = principal * ((monthlyRate * n) / (n - 1));
             document.getElementById("result").innerText = `Your monthly payment is $${monthlyPayment.toFixed(2)}`;
         }
     </script>
